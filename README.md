@@ -18,7 +18,7 @@
 	<h2>
 		Final score
 	</h2>
-	<img src="" alt=ft_printf grade/>
+	<img src="https://github.com/cde-paiv/printf/blob/main/images.png" alt=ft_printf grade/>
 </div>
 
 ---
