@@ -8,7 +8,7 @@
 	</h2>
 	<img src="https://github.com/cde-paiv/printf/blob/main/printf_image_corrected.png" alt=ft_printf badge/>
 	<p align=center>
-    		Inside this repository, you can see all the code that has been created for the ft_printf project, including the mandatory part and part of the bonus part. These files must be compiled into a program named libft.a using a Makefile.
+    		Within this repository, you will find all the code developed for the ft_printf project. This project aims to replicate the functionality of the original printf function identically, but with a personalized implementation, constructed based on my learning.
 	</p>
 </div>
 
