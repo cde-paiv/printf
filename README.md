@@ -6,7 +6,7 @@
 	<h2>
 		<i>ft_printf</i>
 	</h2>
-	<img src="" alt=ft_printf badge/>
+	<img src="https://github.com/cde-paiv/printf/blob/main/printf_image_corrected.png" alt=ft_printf badge/>
 	<p align=center>
     		Inside this repository, you can see all the code that has been created for the ft_printf project, including the mandatory part and part of the bonus part. These files must be compiled into a program named libft.a using a Makefile.
 	</p>
